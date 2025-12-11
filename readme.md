@@ -16,6 +16,8 @@
 
 <img width="1450" height="542" alt="image" src="https://github.com/user-attachments/assets/63f2a2b1-68d4-4f98-a8c2-1b9f227917a1" />
 
+Demo Video Link:
+https://www.loom.com/share/7c203a49a9f048158f0642fc2133fa2c
 
 <br>
 
@@ -63,3 +65,4 @@ mkdir data
 # 5. Run the app
 
 streamlit run pdf_app.py
+
